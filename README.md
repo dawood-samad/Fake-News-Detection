@@ -35,6 +35,38 @@ Built with:
 ![image](https://github.com/user-attachments/assets/cfd621d5-3a81-4cd4-aecf-9be6445d9acb)
 
 
+
+Get "Fake" or "Real" in seconds!
+
+🚀 How It Works
+Text cleaning (stopwords, lemmatization)
+
+TF-IDF vectorization
+
+SVM classifier
+
+Gradio interface
+
+📊 Example Output
+
+📁 Files
+FakeNewsDetector.ipynb: Main code
+
+README.md: You're here
+
+gradio_demo.png: UI preview 
+
+📌 Future Improvements
+Use deep learning (LSTM, BERT)
+
+Deploy on Hugging Face Spaces or Streamlit Cloud
+
+Add multilingual support
+
+🙋‍♂️ Author
+Dawood Samad – https://www.linkedin.com/in/dawood-samad-986215366/ | https://github.com/dawood-samad
+
+
 ### Try it out! 🚀
 
 ```python
