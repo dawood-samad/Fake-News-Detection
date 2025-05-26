@@ -35,6 +35,11 @@ Built with:
 ![image](https://github.com/user-attachments/assets/cfd621d5-3a81-4cd4-aecf-9be6445d9acb)
 
 
+🎥 Project Explanation Video
+
+Watch on YouTube: 📺 [Fake News Detection Project Explanation](https://youtu.be/dqAx9UEWel0?si=q4spHVdl7hhmMHqV)
+Provides a walkthrough of the dataset, preprocessing, model training, and evaluation steps
+
 
 Get "Fake" or "Real" in seconds!
 
@@ -52,7 +57,6 @@ Gradio interface
 📁 Files
 FakeNewsDetector.ipynb: Main code
 
-README.md: You're here
 
 gradio_demo.png: UI preview 
 
@@ -65,6 +69,7 @@ Add multilingual support
 
 🙋‍♂️ Author
 Dawood Samad – https://www.linkedin.com/in/dawood-samad-986215366/ | https://github.com/dawood-samad
+Youtube Channel – Dawood Dataverse
 
 
 ### Try it out! 🚀
